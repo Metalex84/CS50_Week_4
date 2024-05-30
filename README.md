@@ -1,5 +1,5 @@
 # CS50 Week 4
-Practice, Lab 4 &amp; Problem Set43 - CS50 2023
+Practice, Lab 4 &amp; Problem Set 4 - CS50 2023
 
 ## Practice
 **Bottom Up**
